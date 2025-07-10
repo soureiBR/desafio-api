@@ -1,12 +1,12 @@
-# 🧪 Desafio Técnico – CRUD com API REST
+# Desafio Técnico – CRUD com API REST
 
-Este repositório contém a especificação técnica do desafio técnico da Sourei para candidatos à vaga de desenvolvimento backend.
+Este repositório contém a especificação técnica do desafio técnico da Sourei para candidatos à vaga de desenvolvimento.
 
-## 📌 Objetivo
+## Objetivo
 
 Avaliar a capacidade do candidato em construir uma API RESTful com operações CRUD, boas práticas de desenvolvimento, organização de código e controle de versionamento.
 
-## ✅ Requisitos Funcionais
+## Requisitos Funcionais
 
 Crie uma API REST com a entidade `Produto`, contendo os seguintes campos:
 
@@ -30,3 +30,4 @@ A API deve permitir as seguintes operações:
 - O projeto deve ser entregue em um repositório público no GitHub com o seguinte nome:
 
 
+Demais especificações descritas no arquivo `Instruções.pdf`.
